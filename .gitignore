@@ -1,0 +1,13 @@
+# Environment secrets
+.env
+
+# Database backups
+backups/
+*.sql
+
+# Backup logs
+backup-cron.log
+
+# Temporary files
+*.tmp
+*.log
